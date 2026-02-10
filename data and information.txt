@@ -1,0 +1,5 @@
+what is the difference between data and information? 
+1- data is the fact for example: Temperature in the past 100 years this is data its a fact but, the information is processed from data and structured for example: Global temperature is raising
+2- information is combination of (data + meaning) = Information ===> data without meaning is only data
+Data: 1-Raw facts 2-Unstructured/Unorganized 3-Unanalyzed 4-Unprocessed 5-Has no meaning
+Information: 1-Driven from data 2-Structured/Organized 3-Analyzed 4-Processed 5-Has meaning
