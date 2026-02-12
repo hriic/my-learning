@@ -25,4 +25,43 @@ Who? What? Where? When?
 ---
 
 ## Knowledge
-Knowledge is the understanding gained from information through experience, learning, and analysis. It helps in decision-m
+Knowledge is the understanding gained from information through experience, learning, and analysis. It helps in decision-making.
+
+Examples:
+- Knowing that 36°C is a high temperature and may cause heat stress.
+- Understanding that a score of 85 means very good performance.
+
+Knowledge answers the question:
+How?
+
+---
+
+## Wisdom
+Wisdom is the ability to apply knowledge in the right way, at the right time, and in the right situation. It involves judgment, insight, and experience.
+
+Examples:
+- Deciding to stay hydrated and avoid direct sunlight when temperature is high.
+- Advising others on how to improve their performance based on experience.
+
+Wisdom answers the question:
+Why?
+
+---
+
+## Summary Table
+
+| Level        | Meaning                              | Answers |
+|---------------|--------------------------------------|-----------|
+| Data          | Raw facts and values                 | -         |
+| Information   | Processed data with meaning          | Who, What, Where, When |
+| Knowledge     | Understanding and experience         | How       |
+| Wisdom        | Wise judgment and decision-making    | Why       |
+
+---
+
+## Importance in Technology and Cybersecurity
+Understanding the DIKW model helps in:
+- Data analysis and interpretation.
+- Making better security decisions.
+- Incident response and investigation.
+- Strategic planning and problem-solving.
